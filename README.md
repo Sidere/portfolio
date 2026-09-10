@@ -1,36 +1,190 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Poliana Sidere — Portfolio
 
-## Getting Started
+> Software Developer · Frontend · Mobile · Software Engineering
 
-First, run the development server:
+Meu portfólio profissional, desenvolvido para apresentar meus projetos, minha trajetória e, principalmente, minha forma de transformar problemas em soluções digitais.
+
+🌐 **Portfolio:** https://sideredev.com.br
+
+---
+
+## ✦ Sobre
+
+Este projeto representa mais do que uma coleção de trabalhos.
+
+Ao longo da minha experiência com desenvolvimento, percebi que construir software vai muito além de escrever código.
+
+Antes de desenvolver uma solução, procuro entender o problema, organizar informações, identificar requisitos e pensar em como pessoas, dados e sistemas podem se conectar.
+
+Este portfólio nasceu para mostrar esse processo.
+
+> **Código é parte da solução. Entender o problema é o começo dela.**
+
+---
+
+## ✦ Projetos
+
+### Aqui na Feira
+
+Aplicação mobile desenvolvida para a Feira de Caruaru.
+
+O projeto surgiu a partir de um problema de localização e navegação, mas evoluiu para um desafio maior: organizar e estruturar informações de um ambiente com dados descentralizados.
+
+**Stack**
+
+- React Native
+- Expo
+- TypeScript
+- Firebase
+- Geolocation
+- Maps
+- APIs
+
+---
+
+### NS Informática
+
+Landing page desenvolvida para uma empresa de assistência técnica.
+
+O projeto começou como uma página institucional e evoluiu para uma solução envolvendo integração com dados externos e serviços.
+
+**Stack**
+
+- Next.js
+- React
+- TypeScript
+- Tailwind CSS
+- APIs
+- External Integrations
+- Vercel
+
+---
+
+## ✦ Processo
+
+Minha abordagem costuma seguir um fluxo simples:
+
+**Entender → Estruturar → Projetar → Desenvolver → Validar → Evoluir**
+
+A tecnologia muda.
+
+A forma de resolver problemas permanece.
+
+---
+
+## ✦ Stack
+
+### Frontend
+
+React · Next.js · TypeScript · JavaScript · Tailwind CSS
+
+### Mobile
+
+React Native · Expo
+
+### Backend & APIs
+
+Node.js · NestJS · REST APIs
+
+### Data
+
+PostgreSQL · Prisma · Firebase
+
+### Infrastructure
+
+Git · GitHub · Docker · Vercel
+
+---
+
+## ✦ Tecnologias do projeto
+
+Este portfólio foi desenvolvido utilizando:
+
+- Next.js
+- TypeScript
+- React
+- Tailwind CSS
+- Vercel
+
+---
+
+## ✦ Desenvolvimento
+
+Clone o projeto:
+
+```bash
+git clone <https://github.com/Sidere/portfolio.git>
+cd <portfolio>
+```
+
+Instale as dependências:
+
+```bash
+npm install
+```
+
+Execute o ambiente de desenvolvimento:
 
 ```bash
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Abra no navegador:
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+```text
+http://localhost:3000
+```
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+Para gerar o build de produção:
 
-## Learn More
+```bash
+npm run build
+```
 
-To learn more about Next.js, take a look at the following resources:
+---
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## ✦ Estrutura
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+```text
+src/
+├── components/
+├── hooks/
+├── i18n/
+├── lib/
+└── ...
+```
 
-## Deploy on Vercel
+A estrutura pode evoluir conforme novas funcionalidades e projetos forem adicionados.
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+---
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+## ✦ Idiomas
+
+O portfólio possui suporte para:
+
+- 🇺🇸 English
+- 🇧🇷 Português (Brasil)
+
+---
+
+## ✦ Deploy
+
+O projeto está hospedado na Vercel e utiliza o domínio:
+
+**https://sideredev.com.br**
+
+---
+
+## ✦ Contato
+
+🌐 **Website:** https://sideredev.com.br
+
+💼 **LinkedIn:** https://linkedin.com/in/poliana-sidere
+
+📧 **E-mail:** contato@sidere.dev
+
+---
+
+## License
+
+Este projeto é de uso pessoal e representa o portfólio profissional de Poliana Sidere.
